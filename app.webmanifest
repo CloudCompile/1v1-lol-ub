@@ -1,0 +1,12 @@
+{
+  "name": "1V1.LOL",
+  "description": "A old version",
+  "start_url": "/",
+  "lang": "en-US",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo.png"
+    }
+  ]
+}
