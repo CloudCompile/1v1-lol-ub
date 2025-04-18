@@ -1,12 +1,12 @@
 {
   "name": "1V1.LOL",
   "description": "A old version",
-  "start_url": "/",
+  "start_url": "https://cloudcompile.github.io/1v1-lol-ub/index.html",
   "lang": "en-US",
   "display": "standalone",
   "icons": [
     {
-      "src": "logo.png"
+      "src": "favicon.png"
     }
   ]
 }
